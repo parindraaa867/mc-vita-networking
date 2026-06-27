@@ -1,0 +1,23 @@
+# Raw packet captures and extracted server data (proprietary protocol dumps)
+captures/
+*.pcap
+*.pcapng
+
+# Build artifacts
+build/
+*.velf
+*.suprx
+*.self
+*.o
+*.obj
+__pycache__/
+*.pyc
+
+# Decrypted system modules / game binaries — never commit these
+*.elf
+*.elf.auth
+*.elf.sha256
+*.bin
+
+# Local logs
+*.log
