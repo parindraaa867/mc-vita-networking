@@ -1,8 +1,7 @@
 # mc-vita-networking
 
-me poking at how minecraft on the ps vita does online multiplayer, and whether
-you can point it at your own server since sony's stuff is basically on its way
-out. just research on my own console, nothing here actually works as a server
+This is me poking at how minecraft on the ps vita does online multiplayer, and whether
+you can point it at your own server. Just research on my own console, nothing here actually works as a server
 yet.
 
 ## what i found
