@@ -59,5 +59,4 @@ first.
 
 ## notes
 
-did this for fun / preservation on hardware i own. no game code or decrypted
-sony modules in here.
+did this for fun to see if mc can be done in this way
